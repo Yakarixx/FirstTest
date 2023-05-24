@@ -2,9 +2,9 @@
 # First-test (h1)
 # sottotitolato (h1)
 
-QUesto e un paragrafo
+Questo e un paragrafo
 
-1 ciao
-2 arrivederci
-3 Benvenuto
-4 Grazie
+1. ciao
+2. arrivederci
+3. Benvenuto
+4. Graziegit 
